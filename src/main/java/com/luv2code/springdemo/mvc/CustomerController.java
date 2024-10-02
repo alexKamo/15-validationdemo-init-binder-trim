@@ -46,6 +46,7 @@ public class CustomerController {
         else {
             return "customer-confirmation";
         }
+
     }
 }
 
